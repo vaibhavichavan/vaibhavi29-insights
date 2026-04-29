@@ -1,7 +1,9 @@
-## Hi there 👋
+## 👋 Hi, I'm Vaibhavi Chavan
 
 <!--
-**vaibhavi29-insights/vaibhavi29-insights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I%27m+Vaibhavi+Chavan;Aspiring+Data+Analyst;Transforming+Data+into+Insights;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
+</div>
 
 Here are some ideas to get you started:
 
