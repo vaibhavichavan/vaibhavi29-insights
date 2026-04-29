@@ -36,7 +36,7 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 
 🧰 **Tools & Technologies:** Microsoft Excel, Power BI, Power Query, Pivot Table, MySQL
 
-📊 **Technical Skills:** Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, Dashboard     Development, Statistics
+📊 **Technical Skills:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, Dashboard                                Development, Statistics
 
 📚 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
