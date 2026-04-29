@@ -3,7 +3,6 @@
 🎓 B.Tech in Electronics & Telecommunication
 📍 Pune, Maharashtra, India
 
-<!--
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I%27m+Vaibhavi+Chavan;Aspiring+Data+Analyst;Transforming+Data+into+Insights;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
 </div>
@@ -43,4 +42,4 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 •	Collected, cleaned and processed large datasets, improving data accuracy and consistency for downstream analysis.
 •	Automated Excel reporting workflows using Power Query and Pivot Tables, reducing manual effort by 30%.
 •	Developed and optimized SQL queries for efficient data analysis and reporting.	 
--->
+
