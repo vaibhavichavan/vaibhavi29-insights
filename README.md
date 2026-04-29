@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Vaibhavi Chavan
 
 🎓 B.Tech in Electronics & Telecommunication
+
 📍 Pune, Maharashtra, India
 
 <div align="center">
@@ -32,14 +33,21 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 ## 🛠️ **Technical Skills**
 
 💻 **Programming Languages:** C, SQL, Python
+
 🧰 **Tools & Technologies:** Microsoft Excel, Power BI, Power Query, Pivot Table, MySQL
+
 📊 **Technical Skills:** Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, Dashboard     Development, Statistics
+
 📚 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 🤝 **Soft Skills:** Problem Solving, Analytical Thinking, Critical Thinking, Team Collaboration, Multitasking
+
 
 ## 💼 **Work Experience**
 
 •	Collected, cleaned and processed large datasets, improving data accuracy and consistency for downstream analysis.
+
 •	Automated Excel reporting workflows using Power Query and Pivot Tables, reducing manual effort by 30%.
+
 •	Developed and optimized SQL queries for efficient data analysis and reporting.	 
 
