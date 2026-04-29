@@ -43,6 +43,4 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 •	Collected, cleaned and processed large datasets, improving data accuracy and consistency for downstream analysis.
 •	Automated Excel reporting workflows using Power Query and Pivot Tables, reducing manual effort by 30%.
 •	Developed and optimized SQL queries for efficient data analysis and reporting.	 
-
-
 -->
