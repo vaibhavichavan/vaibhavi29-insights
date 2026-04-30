@@ -32,7 +32,16 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 
 ## 🛠️ **Technical Skills**
 
-💻 **Programming Languages:** C, SQL, Python
+## 🛠️ Technical Skillset
+
+<!-- This section uses Shields.io badges. You can customize them or create your own -->
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+---
 
 🧰 **Tools & Technologies:** Microsoft Excel, Power BI, Power Query, Pivot Table, MySQL
 
