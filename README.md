@@ -34,19 +34,39 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 
 <!-- This section uses Shields.io badges. You can customize them or create your own -->
 
-### 💻 Programming Languages
+💻 **Programming Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
----
 
-🧰 **Tools & Technologies:** Microsoft Excel, Power BI, Power Query, Pivot Table, MySQL
+🧰 **Tools & Technologies:**  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-📊 **Technical Skills:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, Dashboard                                Development, Statistics
 
-📚 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+📊 **Technical Skills:**  
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-blue?style=for-the-badge)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-orange?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-purple?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-green?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard%20Development-yellow?style=for-the-badge)
 
-🤝 **Soft Skills:** Problem Solving, Analytical Thinking, Critical Thinking, Team Collaboration, Multitasking
+
+📚 **Libraries:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+
+🤝 **Soft Skills:**  
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-blue?style=for-the-badge)
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-orange?style=for-the-badge)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-purple?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Team%20Collaboration-green?style=for-the-badge)
 
 
 ## 💼 **Work Experience**
