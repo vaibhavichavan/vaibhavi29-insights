@@ -80,13 +80,29 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 ## Projects
 
 ## Customer Shopping Behavior Analysis
-• Overview: Analyzed ~3,900 customer records to identify trends in purchasing behavior, revenue, and customer segmentation     for better business decision-making.
+• Analyzed ~3,900 customer records to identify trends in purchasing behavior, revenue, and customer segmentation for           better business decision-making.
 
-• Tech Stack: Python (Pandas, NumPy) | SQL (PostgreSQL) | Power BI | Microsoft Excel
+• Python (Pandas, NumPy) | SQL (PostgreSQL) | Power BI | Microsoft Excel
 
-• Key Features: Interactive dashboard with filters, KPI metrics (Customers, Avg Purchase, Rating), category-wise sales         analysis, and customer segmentation by age & subscription.
+• Interactive dashboard with filters, KPI metrics (Customers, Avg Purchase, Rating), category-wise sales analysis, and         customer segmentation by age & subscription.
 
-• Insights & Questions: Identifies top-performing categories, compares subscriber vs non-subscriber spending, analyzes age-    group behavior, and uncovers key factors influencing purchases.
+## Digital Marketing Sales Analysis
 
-![Dashboard Preview](https://github.com/vaibhavichavan/vaibhavi29-insights/blob/main/Customer_Shopping_Analysis.png)"
+• A Power BI dashboard analyzing digital marketing campaigns (Google, Facebook, YouTube Ads) for a multinational               e-commerce company to maximize revenue within budget constraints.
+
+• Microsoft Power BI (.pbit), DAX for calculated measures, custom Sankey visual, and a structured data model with              campaign, budget, sales target, and calendar tables.
+
+• Tracks KPIs (Sales, Profit, ROI%, CPM, CPC, Conversions) across 5 ad formats with monthly trend analysis, platform           comparisons, and Sales vs Target benchmarking.
+
+• Identifies top-performing platforms/ad formats, monitors budget utilization, evaluates sales target achievement, and         uncovers monthly trends correlated with campaign activity.
+
+## E-Commerce Data Preprocessing Project
+
+• A 10-step end-to-end data preprocessing pipeline on a 2,000-row e-commerce dataset, built under the Arbor Academy Project    to prepare raw transactional data for analysis or ML modeling.
+
+• Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) in Jupyter Notebook, exported to Excel (.xlsx).
+
+• Covers duplicate removal, median imputation, IQR outlier capping, log/sqrt transformations, one-hot encoding, binning, and   7 engineered features (TotalSpend, discounted_price, high_value_order, etc.).
+
+• Analyzes what drives high-value orders, return rates, and purchase behavior across age group, tenure, price segment,         product category, and delivery type.
 
