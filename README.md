@@ -88,5 +88,5 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 
 • Insights & Questions: Identifies top-performing categories, compares subscriber vs non-subscriber spending, analyzes age-    group behavior, and uncovers key factors influencing purchases.
 
-![Dashboard Preview]"C:\Users\li\Desktop\Customer Shopping Behaviour Project\Customer_Shopping_Analysis.png"
+![Dashboard Preview](https://github.com/vaibhavichavan/vaibhavi29-insights/blob/main/Customer_Shopping_Analysis.png)"
 
