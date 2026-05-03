@@ -8,17 +8,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I%27m+Vaibhavi+Chavan;Aspiring+Data+Analyst;Transforming+Data+into+Insights;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaibhavi-chavan-b05aa9291">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaibhavi%20Chavan-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  
-  <a href="https://github.com/vaibhavi29-insights">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github">
-  </a>
-  
+<p>
   <a href="mailto:vaibhavichavan2029@mail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://vaibhavichavan.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/vaibhavi-chavan-b05aa9291">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhavi%20Chavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/vaibhavichavan">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -119,25 +123,9 @@ Data Analyst - Arbor Academy Pune
 
 Power BI Training - Linkedin Learning
 
-## 📫 Contact Me
 
-<p>
-  <a href="mailto:vaibhavichavan2029@mail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://vaibhavichavan.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/vaibhavi-chavan-b05aa9291">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaibhavi%20Chavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/vaibhavichavan">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+
+
 
 
 
