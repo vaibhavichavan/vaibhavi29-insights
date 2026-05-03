@@ -96,7 +96,7 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 
 • Identifies top-performing platforms/ad formats, monitors budget utilization, evaluates sales target achievement, and         uncovers monthly trends correlated with campaign activity.
 
-## E-Commerce Data Preprocessing Project
+## E-Commerce Data Preprocessing 
 
 • A 10-step end-to-end data preprocessing pipeline on a 2,000-row e-commerce dataset, built under the Arbor Academy Project    to prepare raw transactional data for analysis or ML modeling.
 
