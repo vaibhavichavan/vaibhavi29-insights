@@ -113,3 +113,31 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 • MySQL — leveraging Joins, Group By, Subqueries, Cumulative Sum, and Rank functions across a relational schema of orders,     pizzas, and sales tables.
 
 • Covers 3 difficulty levels — Basic (total orders, revenue, top pizza sizes/types), Intermediate (category-wise               distribution, hourly trends, daily averages), and Advanced (revenue % contribution, cumulative revenue, top 3 per            category).
+
+## 📜 Certifications
+Data Analyst - Arbor Academy Pune
+
+Power BI Training - Linkedin Learning
+
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:vaibhavichavan2029@mail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://vaibhavichavan.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/vaibhavi-chavan-b05aa9291">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhavi%20Chavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/vaibhavichavan">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+
+
