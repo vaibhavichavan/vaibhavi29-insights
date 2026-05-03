@@ -75,5 +75,13 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 
 •	Automated Excel reporting workflows using Power Query and Pivot Tables, reducing manual effort by 30%.
 
-•	Developed and optimized SQL queries for efficient data analysis and reporting.	 
+•	Developed and optimized SQL queries for efficient data analysis and reporting.	
+
+## Projects
+
+## Customer Shopping Behavior Analysis
+
+## Purpose
+
+This project analyzes customer shopping behavior using transactional data to uncover key insights related to purchasing patterns, customer segments, and product performance. The dashboard helps businesses understand customer preferences and make data-driven decisions to improve sales, marketing strategies, and customer engagement.
 
