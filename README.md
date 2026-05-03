@@ -106,3 +106,10 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 
 • Analyzes what drives high-value orders, return rates, and purchase behavior across age group, tenure, price segment,         product category, and delivery type.
 
+## Pizza Sales Analysis 
+
+• An end-to-end SQL analysis of a pizza sales dataset aimed at uncovering revenue drivers, ordering patterns, and actionable   insights for inventory, marketing, and business decisions.
+
+• MySQL — leveraging Joins, Group By, Subqueries, Cumulative Sum, and Rank functions across a relational schema of orders,     pizzas, and sales tables.
+
+• Covers 3 difficulty levels — Basic (total orders, revenue, top pizza sizes/types), Intermediate (category-wise               distribution, hourly trends, daily averages), and Advanced (revenue % contribution, cumulative revenue, top 3 per            category).
