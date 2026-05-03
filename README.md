@@ -81,8 +81,12 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 
 ## Customer Shopping Behavior Analysis
 • Overview: Analyzed ~3,900 customer records to identify trends in purchasing behavior, revenue, and customer segmentation     for better business decision-making.
+
 • Tech Stack: Python (Pandas, NumPy) | SQL (PostgreSQL) | Power BI | Microsoft Excel
+
 • Key Features: Interactive dashboard with filters, KPI metrics (Customers, Avg Purchase, Rating), category-wise sales         analysis, and customer segmentation by age & subscription.
+
 • Insights & Questions: Identifies top-performing categories, compares subscriber vs non-subscriber spending, analyzes age-    group behavior, and uncovers key factors influencing purchases.
-![Dashboard Preview]
+
+![Dashboard Preview](https://github.com/vaibhavichavan/vaibhavi29-insights/blob/main/Customer_Shopping_Analysis.png)
 
