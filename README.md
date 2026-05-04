@@ -81,42 +81,6 @@ I enjoy the moment when data reveals something new and useful, and I am always e
 
 •	Developed and optimized SQL queries for efficient data analysis and reporting.	
 
-## Projects
-
-## Customer Shopping Behavior Analysis
-• Analyzed ~3,900 customer records to identify trends in purchasing behavior, revenue, and customer segmentation for           better business decision-making.
-
-• Python (Pandas, NumPy) | SQL (PostgreSQL) | Power BI | Microsoft Excel
-
-• Interactive dashboard with filters, KPI metrics (Customers, Avg Purchase, Rating), category-wise sales analysis, and         customer segmentation by age & subscription.
-
-## Digital Marketing Sales Analysis
-
-• A Power BI dashboard analyzing digital marketing campaigns (Google, Facebook, YouTube Ads) for a multinational               e-commerce company to maximize revenue within budget constraints.
-
-• Microsoft Power BI (.pbit), DAX for calculated measures, custom Sankey visual, and a structured data model with              campaign, budget, sales target, and calendar tables.
-
-• Tracks KPIs (Sales, Profit, ROI%, CPM, CPC, Conversions) across 5 ad formats with monthly trend analysis, platform           comparisons, and Sales vs Target benchmarking.
-
-• Identifies top-performing platforms/ad formats, monitors budget utilization, evaluates sales target achievement, and         uncovers monthly trends correlated with campaign activity.
-
-## E-Commerce Data Preprocessing 
-
-• A 10-step end-to-end data preprocessing pipeline on a 2,000-row e-commerce dataset, built under the Arbor Academy Project    to prepare raw transactional data for analysis or ML modeling.
-
-• Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) in Jupyter Notebook, exported to Excel (.xlsx).
-
-• Covers duplicate removal, median imputation, IQR outlier capping, log/sqrt transformations, one-hot encoding, binning, and   7 engineered features (TotalSpend, discounted_price, high_value_order, etc.).
-
-• Analyzes what drives high-value orders, return rates, and purchase behavior across age group, tenure, price segment,         product category, and delivery type.
-
-## Pizza Sales Analysis 
-
-• An end-to-end SQL analysis of a pizza sales dataset aimed at uncovering revenue drivers, ordering patterns, and actionable   insights for inventory, marketing, and business decisions.
-
-• MySQL — leveraging Joins, Group By, Subqueries, Cumulative Sum, and Rank functions across a relational schema of orders,     pizzas, and sales tables.
-
-• Covers 3 difficulty levels — Basic (total orders, revenue, top pizza sizes/types), Intermediate (category-wise               distribution, hourly trends, daily averages), and Advanced (revenue % contribution, cumulative revenue, top 3 per            category).
 
 ## 📜 Certifications
 Data Analyst - Arbor Academy Pune
